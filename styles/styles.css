@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+}
+
+#first {
+  color: green;
+}
+
+.second {
+  background-color: purple;
+}
+
+p {
+  color: white;
+}
+
+.it {
+  font-style: italic;
+}
